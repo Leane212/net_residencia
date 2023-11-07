@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/Meuprojeto.csproj": {}
+    "/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana1/Meuprojeto/Meuprojeto.csproj": {}
   },
   "projects": {
-    "/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/Meuprojeto.csproj": {
+    "/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana1/Meuprojeto/Meuprojeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/Meuprojeto.csproj",
+        "projectUniqueName": "/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana1/Meuprojeto/Meuprojeto.csproj",
         "projectName": "Meuprojeto",
-        "projectPath": "/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/Meuprojeto.csproj",
+        "projectPath": "/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana1/Meuprojeto/Meuprojeto.csproj",
         "packagesPath": "/home/leane-soares-sousa/.nuget/packages/",
-        "outputPath": "/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/",
+        "outputPath": "/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana1/Meuprojeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/leane-soares-sousa/.nuget/NuGet/NuGet.Config"
