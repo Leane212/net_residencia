@@ -1,0 +1,15 @@
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/bin/Debug/net7.0/Meuprojeto
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/bin/Debug/net7.0/Meuprojeto.deps.json
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/bin/Debug/net7.0/Meuprojeto.runtimeconfig.json
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/bin/Debug/net7.0/Meuprojeto.dll
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/bin/Debug/net7.0/Meuprojeto.pdb
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.csproj.AssemblyReference.cache
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.AssemblyInfoInputs.cache
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.AssemblyInfo.cs
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.csproj.CoreCompileInputs.cache
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.dll
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/refint/Meuprojeto.dll
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.pdb
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/Meuprojeto.genruntimeconfig.cache
+/home/leane-soares-sousa/TIC18/dotnet/semana1/Meuprojeto/obj/Debug/net7.0/ref/Meuprojeto.dll
