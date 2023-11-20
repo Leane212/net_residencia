@@ -13,3 +13,18 @@
 /home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana2/Meuprojeto/obj/Debug/net7.0/Meuprojeto.pdb
 /home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana2/Meuprojeto/obj/Debug/net7.0/Meuprojeto.genruntimeconfig.cache
 /home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana2/Meuprojeto/obj/Debug/net7.0/ref/Meuprojeto.dll
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\bin\Debug\net7.0\Meuprojeto.exe
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\bin\Debug\net7.0\Meuprojeto.deps.json
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\bin\Debug\net7.0\Meuprojeto.runtimeconfig.json
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\bin\Debug\net7.0\Meuprojeto.dll
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\bin\Debug\net7.0\Meuprojeto.pdb
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.AssemblyInfoInputs.cache
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.AssemblyInfo.cs
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.csproj.CoreCompileInputs.cache
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.sourcelink.json
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.dll
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\refint\Meuprojeto.dll
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.pdb
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\Meuprojeto.genruntimeconfig.cache
+c:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\Meuprojeto\obj\Debug\net7.0\ref\Meuprojeto.dll
