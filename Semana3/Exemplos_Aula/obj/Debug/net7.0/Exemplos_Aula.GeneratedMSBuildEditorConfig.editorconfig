@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Meuprojeto
-build_property.ProjectDir = /home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/semana1/Meuprojeto/
+build_property.RootNamespace = Exemplos_Aula
+build_property.ProjectDir = /home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana3/Exemplos_Aula/
