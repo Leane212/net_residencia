@@ -1,0 +1,5 @@
+C:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\P002\obj\Debug\net8.0\P002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\P002\obj\Debug\net8.0\P002.AssemblyInfoInputs.cache
+C:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\P002\obj\Debug\net8.0\P002.AssemblyInfo.cs
+C:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\P002\obj\Debug\net8.0\P002.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Desktop\modulo II\pontonet\net_residencia-1\semana2\P002\obj\Debug\net8.0\P002.sourcelink.json
