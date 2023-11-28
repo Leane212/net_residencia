@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DobjKB/ak9PgU7uHelStBCi7P71C/BEVNCJVoFBVjJYkPKSqWncbT0prOtcy8tsw7QeM/eqzXZIpKqkHBH7Aug==",
+  "dgSpecHash": "WABUEGng3Tv+MqFcj1DbqwMMOy5QfD8CkDfHEk9iQAziGAUGN2eHQz+uhNXHkJ50V0DFDzZbVOuer7CBZoOk3g==",
   "success": true,
-  "projectFilePath": "/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana3/Exemplos_Aula/Exemplos_Aula.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Lea\\Desktop\\modulo II\\pontonet\\net_residencia-1\\Semana3\\Exemplos_Aula\\Exemplos_Aula.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lea\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Lea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Lea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Lea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
