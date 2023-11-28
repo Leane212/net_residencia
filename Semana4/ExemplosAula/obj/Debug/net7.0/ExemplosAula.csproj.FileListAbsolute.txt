@@ -1,0 +1,15 @@
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/bin/Debug/net7.0/ExemplosAula
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/bin/Debug/net7.0/ExemplosAula.deps.json
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/bin/Debug/net7.0/ExemplosAula.runtimeconfig.json
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/bin/Debug/net7.0/ExemplosAula.dll
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/bin/Debug/net7.0/ExemplosAula.pdb
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.csproj.AssemblyReference.cache
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.GeneratedMSBuildEditorConfig.editorconfig
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.AssemblyInfoInputs.cache
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.AssemblyInfo.cs
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.csproj.CoreCompileInputs.cache
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.dll
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/refint/ExemplosAula.dll
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.pdb
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ExemplosAula.genruntimeconfig.cache
+/home/leane-soares-sousa/Área de trabalho/dotnet/net_residencia/Semana4/ExemplosAula/obj/Debug/net7.0/ref/ExemplosAula.dll
